@@ -1,0 +1,51 @@
+﻿  Darbas.cpp
+  Libas.cpp
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(47,31): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(61,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(62,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(105,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(106,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(157,33): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(161,38): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(165,30): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(174,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(175,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(35,26): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(44): message : see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Fn=std::plus<void>
+          ]
+C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Darbas\Libas.cpp(165): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,int>(const _InIt,const _InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 476 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Darbas.vcxproj -> C:\Users\kaspa\Desktop\School\Programavimas\Darbas_v0.4\Release\Darbas.exe
